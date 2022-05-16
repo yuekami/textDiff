@@ -1,0 +1,11 @@
+C:\Users\yueka\Desktop\textDiff\textDiff\bin\Release\textDiff.exe.config
+C:\Users\yueka\Desktop\textDiff\textDiff\bin\Release\textDiff.exe
+C:\Users\yueka\Desktop\textDiff\textDiff\bin\Release\textDiff.pdb
+C:\Users\yueka\Desktop\textDiff\textDiff\bin\Release\textDiff.xml
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Release\textDiff.Form1.resources
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Release\textDiff.Resources.resources
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Release\textDiff.vbproj.GenerateResource.cache
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Release\textDiff.vbproj.CoreCompileInputs.cache
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Release\textDiff.exe
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Release\textDiff.xml
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Release\textDiff.pdb

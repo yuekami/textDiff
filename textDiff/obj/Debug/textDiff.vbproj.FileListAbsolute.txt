@@ -1,0 +1,12 @@
+C:\Users\yueka\Desktop\textDiff\textDiff\bin\Debug\textDiff.exe.config
+C:\Users\yueka\Desktop\textDiff\textDiff\bin\Debug\textDiff.exe
+C:\Users\yueka\Desktop\textDiff\textDiff\bin\Debug\textDiff.pdb
+C:\Users\yueka\Desktop\textDiff\textDiff\bin\Debug\textDiff.xml
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Debug\textDiff.vbproj.AssemblyReference.cache
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Debug\textDiff.Form1.resources
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Debug\textDiff.Resources.resources
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Debug\textDiff.vbproj.GenerateResource.cache
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Debug\textDiff.vbproj.CoreCompileInputs.cache
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Debug\textDiff.exe
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Debug\textDiff.xml
+C:\Users\yueka\Desktop\textDiff\textDiff\obj\Debug\textDiff.pdb
